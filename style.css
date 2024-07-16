@@ -1,0 +1,16 @@
+:root {
+}
+
+body,
+p,
+a,
+ol,
+li {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
